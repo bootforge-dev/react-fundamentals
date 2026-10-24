@@ -1,8 +1,11 @@
 import React from 'react'
+import Profile from './component/profile/Profile'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Profile />
+    </div>
   )
 }
 
