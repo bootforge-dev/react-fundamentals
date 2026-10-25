@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 200px;
+}
+
+.main button{
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
